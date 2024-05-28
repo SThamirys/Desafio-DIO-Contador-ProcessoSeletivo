@@ -12,7 +12,7 @@ Este repositório contém os projetos "Contador & Processo Seletivo" desenvolvid
  A partir de uma lista de nomes de candidatos, o programa deve enviar mensagem informando se o RH obteve ou não contato com os candidatos e quantas tentativas foram necessarias.
 
  ### Contador
- O sistema deverá receber dois parâmetros via terminal que representarão dois números inteiros, com estes dois números você deverá obter a quantidade de interações (for) e realizar a impressão no console (System.out.print) dos números incrementados,
+ O sistema deverá receber dois parâmetros via terminal que representarão dois números inteiros, com estes dois números você deverá obter a quantidade de interações (for) e realizar a impressão no console (System.out.print) dos números incrementados.
 
 ## Ambiente de Desenvolvimento
 Este projeto foi desenvolvido e testado nas seguintes condições:
