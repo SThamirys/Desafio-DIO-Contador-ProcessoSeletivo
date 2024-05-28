@@ -9,10 +9,10 @@
 Este repositório contém os projetos "Contador & Processo Seletivo" desenvolvido como parte do Módulo "Dominando a Linguagem de Programação Java" do Santander Bootcamp 2024 - Backend Java, oferecido pela escola Dio e executado na IDE VSCode.</p>
 
 ### Processo Seletivo 
- A partir de uma lista de nomes de candidatos, o programa deve enviar mensagem informando se o RH deve ou não ligar para cada um deles, baseado no valor de salário de uma vaga para a qual se aplicaram:
-    * Se o valor salário base (`2000.0`), for maior que valor salário pretentido, imprima : "LIGAR PARA O CANDIDATO";
-    * Senão, Se o valor salário base for igual ao valor salário pretentido, imprima : "LIGAR PARA O CANDIDATO, COM CONTRA PROPOSTA";
-    * Senão imprima: "AGUARDANDO RESULTADO DOS DEMAIS CANDIDATOS".
+ A partir de uma lista de nomes de candidatos, o programa deve enviar mensagem informando se o RH obteve ou não contato com os candidatos e quantas tentativas foram necessarias.
+
+ ### Contador
+ O sistema deverá receber dois parâmetros via terminal que representarão dois números inteiros, com estes dois números você deverá obter a quantidade de interações (for) e realizar a impressão no console (System.out.print) dos números incrementados,
 
 ## Ambiente de Desenvolvimento
 Este projeto foi desenvolvido e testado nas seguintes condições:
